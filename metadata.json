@@ -1,0 +1,6 @@
+{
+  "name": "Sir Abbas Academy",
+  "description": "Attendance & fee management app for Sir Abbas Academy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
